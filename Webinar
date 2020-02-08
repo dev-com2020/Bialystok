@@ -1,1 +1,10 @@
 http://codeguru.clickmeeting.com/js-bialystok
+
+API do aplikacji pogodowej
+
+const APIKey = 'efa2ef11f117f7485b2fca8e87a3a2f5'
+const API = `http://api.openweathermap.org/data/2.5/weather?q=${this.state.value}&APPID=${APIKey}&units=metric`;
+
+
+
+
