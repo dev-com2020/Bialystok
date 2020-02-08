@@ -1,0 +1,14 @@
+var TextLines = React.createClass({
+render: function() {
+var lines = this.props.lines;
+
+var br = lines.map(function(line) {
+return (<span>{line}<br/></span>);
+});
+return (<div>{ br }</div>);
+}
+});
+
+var lines = ["line 1", "line 2", "line 3"];
+React.render(<TextLines lines={ lines } />,
+document.getElementById("container"));
