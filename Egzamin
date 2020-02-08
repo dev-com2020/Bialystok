@@ -1,0 +1,6 @@
+Stwórz stronę swojej Uczelni, z wykorzystaniem dowolnego zdjęcia szkoły oraz jej logotypu. Użyj elementów React,i /lub JQuery
+Zastostuj style CSS z zewnętrznęgo pliku (min. 3 style, czcionka Arial, wielkość czcionki w sekcji p 12pix, kolor czionki czarny)
+Ustaw elementy strony w sposób czytelny i zrozumiały dla użytkownika.
+Stwórz SPA która zawiera 3 elementy menu (np. Kontakt, O szkole, itd..), pamiętaj, że możesz użyć tylko jednej strony html!
+Umieść mapę, oraz formularz kontaktoway z elementami walidacji (min. 5 pól)
+Czas na wykonanie zadania: 5 godzin.
